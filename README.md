@@ -1,6 +1,6 @@
 Kevin Gallagher
 =====================
-portfoli site
+portfolio site
 ========================
 
 
