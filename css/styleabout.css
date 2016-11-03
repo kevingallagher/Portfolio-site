@@ -11,10 +11,9 @@ nav { position: fixed; text-align: center;
 right: 0;
 margin: auto;
 z-index:2 ;
-background-color: white;
-opacity:0.7 }
+background-color: white;}
 nav ul li { display: inline; 
-font-family:'Indie Flower', cursive;
+font-family: 'Nunito', sans-serif;
 list-style-type: none;
     font:rgba(246, 198, 250, 100);
     font-size: 1.5em;
@@ -26,10 +25,11 @@ list-style-type: none;
 	display: inline-block;
     
 }
+
 a{text-decoration: none;
 color: black}
 .nav_item1:hover {background-color: rgba( 246, 198, 250, 100)}
-.nav_item2:hover {background-color: rgba( 196, 252, 196, 1)}
+.nav_item2: {background-color: rgba( 196, 252, 196, 1)}
 .nav_item3:hover {background-color: rgba( 239, 185, 185, 1)}
 .nav_item4:hover {background-color: rgba( 179, 185, 247, 1)}
 .nav_item5:hover {background-color: rgba( 246, 250, 198, 1)}
@@ -57,7 +57,7 @@ h1{font-size:  5em;
     background-color: rgba(250,250,250,0.3);
     padding:0.5em; 
     
-font-family: 'Itim', cursive; 
+font-family: 'Paytone One', sans-serif;
 width: 650px;}
 .about{z-index: 0;position: relative}
 
@@ -85,7 +85,7 @@ font-size: 1em;
 text-align: ;}
 .button p{font-size: 1.5em;
 padding:1em 1.5em 1em 1.5em;
-text-align: center;m}
+text-align: center;}
 .button{width:40% ;
     left:120px;
     position: relative;

@@ -6,16 +6,14 @@ font-family:100%;
 line-height:1em;
 }
 /*---------------------NAV--------------------------*/	
-nav { position: absolute; text-align: center;
+nav { position: fixed; text-align: center;
     left: 0;
-    top: 0;
 right: 0;
 margin: auto;
-z-index: 4;
-background-color: white;
-opacity:0.7 }
+z-index:2 ;
+background-color: white;}
 nav ul li { display: inline; 
-font-family:'Indie Flower', cursive;
+font-family: 'Nunito', sans-serif;
 list-style-type: none;
     font:rgba(246, 198, 250, 100);
     font-size: 1.5em;
@@ -27,10 +25,11 @@ list-style-type: none;
 	display: inline-block;
     
 }
+
 a{text-decoration: none;
 color: black}
 .nav_item1:hover {background-color: rgba( 246, 198, 250, 100)}
-.nav_item2:hover {background-color: rgba( 196, 252, 196, 1)}
+.nav_item2: {background-color: rgba( 196, 252, 196, 1)}
 .nav_item3:hover {background-color: rgba( 239, 185, 185, 1)}
 .nav_item4:hover {background-color: rgba( 179, 185, 247, 1)}
 .nav_item5:hover {background-color: rgba( 246, 250, 198, 1)}
@@ -63,7 +62,7 @@ top:0;}
 .sidebar li:hover{opacity: 0.4;}
 .sidebar ul li a:hover{background-color: aqua}
 
-h1{font-family: 'Nunito', sans-serif; 
+h1{font-family: 'Paytone One', sans-serif;
 font-size: 8em;
 margin-top:100px;
     text-align: center;
@@ -85,12 +84,14 @@ p{font-family: 'Nunito', sans-serif;}
     background-color: rgba(250,250,250,0.2);
     top:2em;
     max-width:  895px;
-    text-align: center;
+    text-align: left;
 left: 0;
 right:0;
 margin: auto;
 height: 100vh;}
 
+.blog p{padding-left: 1em;
+padding-right:1em }
 .social{  left: 0;
         right:0;
     margin: auto;

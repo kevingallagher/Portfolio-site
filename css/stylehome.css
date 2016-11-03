@@ -10,29 +10,26 @@ nav { position: fixed; text-align: center;
     left: 0;
 right: 0;
 margin: auto;
-z-index: 4;
-background-color: white;
-opacity:0.7 }
+z-index:2 ;
+background-color: white;}
 nav ul li { display: inline; 
-font-family:'Indie Flower', cursive;
+font-family: 'Nunito', sans-serif;
 list-style-type: none;
     font:rgba(246, 198, 250, 100);
     font-size: 1.5em;
+    text-decoration: none!important;
     list-style: none;
 }
-li a{text-decoration: none;
-color: black}
 .nav_item {
 	padding: 20px 50px;
 	display: inline-block;
+    
 }
-   
-}
+
 a{text-decoration: none;
-color: black;
-background-color: }
-.nav_item1 a:hover {background-color: rgba( 246, 198, 250, 100)}
-.nav_item2:hover {background-color: rgba( 196, 252, 196, 1)}
+color: black}
+.nav_item1:hover {background-color: rgba( 246, 198, 250, 100)}
+.nav_item2: {background-color: rgba( 196, 252, 196, 1)}
 .nav_item3:hover {background-color: rgba( 239, 185, 185, 1)}
 .nav_item4:hover {background-color: rgba( 179, 185, 247, 1)}
 .nav_item5:hover {background-color: rgba( 246, 250, 198, 1)}
@@ -127,8 +124,8 @@ font-size: 4em;
 text-align: center;
 left: 0;
 right: 0;
-font-family: 'Nunito', sans-serif;
-margin-top: 210px;
+font-family: 'Paytone One', sans-serif;
+margin-top: 200px;
    color: whitesmoke;
     -webkit- animation-duration: 2s;
     animation-duration: 2s;
@@ -140,7 +137,7 @@ margin-top: 210px;
 max-width: 700px;
 left:0;
 right:0;
-display: block;
+    bottom: 0;
 margin:auto;
     margin-top:110px;
 position: absolute;
