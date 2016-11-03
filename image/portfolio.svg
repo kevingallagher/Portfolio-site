@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>portfolio</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M110.504089,68.9431712 L110.504089,59.0225341 C110.504089,52.9349566 115.437021,48 121.53439,48 L136.912315,48 C143.004182,48 147.942615,52.9341691 147.942615,59.0185321 L147.942615,69.6252769 C147.942615,69.6252769 110.504089,70.9291065 110.504089,68.9431712 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="37.4385265" height="22.0454393" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M41.5040888,83.9997632 C41.5040888,73.5064837 50.0168534,65 60.4969812,65 L199.007108,65 C209.496592,65 218,73.5157931 218,83.9997632 L218,180.100041 C218,190.59332 209.487235,199.099804 199.007108,199.099804 L60.4969812,199.099804 C50.0074964,199.099804 41.5040888,190.584011 41.5040888,180.100041 L41.5040888,83.9997632 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="176.495911" height="134.099804" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="180" y="125" width="6.76766016" height="23.5647598" rx="3.38383008"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6.76766016" height="23.5647598" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="73" y="125" width="6.76766016" height="23.5647598" rx="3.38383008"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6.76766016" height="23.5647598" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="portfolio" stroke="#383333">
+            <use id="Rectangle-2-Copy-26" mask="url(#mask-2)" stroke-width="10" xlink:href="#path-1"></use>
+            <use id="Rectangle-1-Copy-26" mask="url(#mask-4)" stroke-width="10" xlink:href="#path-3"></use>
+            <path d="M45.5040888,126 L125.428009,152.049999 C127.527409,152.734267 130.941434,152.756104 133.053186,152.098855 L216.909262,126" id="Path-1-Copy-26" stroke-width="5"></path>
+            <use id="Rectangle-3-Copy-39" mask="url(#mask-6)" stroke-width="10" fill="#FFFFFF" xlink:href="#path-5"></use>
+            <use id="Rectangle-3-Copy-40" mask="url(#mask-8)" stroke-width="10" fill="#FFFFFF" xlink:href="#path-7"></use>
+        </g>
+    </g>
+</svg>

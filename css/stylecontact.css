@@ -1,0 +1,189 @@
+/*------------------css reset-----------------*/
+*{
+padding:0;
+margin: 0;
+font-family:100%;
+line-height:1em;
+}
+/*---------------------NAV--------------------------*/	
+nav { position: fixed; text-align: center;
+    left: 0;
+right: 0;
+margin: auto;
+z-index: 4;
+background-color: white;
+opacity:0.7 }
+nav ul li { display: inline; 
+font-family:'Indie Flower', cursive;
+list-style-type: none;
+    font:rgba(246, 198, 250, 100);
+    font-size: 1.5em;
+    text-decoration: none!important;
+    list-style: none;
+}
+.nav_item {
+	padding: 20px 50px;
+	display: inline-block;
+    
+}
+a{text-decoration: none;
+color: black}
+.nav_item1:hover {background-color: rgba( 246, 198, 250, 100)}
+.nav_item2:hover {background-color: rgba( 196, 252, 196, 1)}
+.nav_item3:hover {background-color: rgba( 239, 185, 185, 1)}
+.nav_item4:hover {background-color: rgba( 179, 185, 247, 1)}
+.nav_item5:hover {background-color: rgba( 246, 250, 198, 1)}
+/*-----------------------------------------------*/	
+section { padding: 20px; 
+}
+body{overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.goTop{position: fixed;
+margin-top: -20px;
+z-index: 3;}
+
+
+.biggearcircles{position: absolute;float:left;
+left:-100px; 
+top:330px;
+    -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 50s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+.biggear{position: absolute;
+z-index:;
+float:right;
+right: -100px;top:-200px;
+      -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 50s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+.smallgear{position: absolute;float:right;right:340px;
+top:-50px;   -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 30s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+.spikegear{position: absolute;float:right;right:100px;top:440px;
+       -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 40s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } 
+}
+.spikegear2{position: absolute;float:left;left:250px;top:-100px;
+    
+       -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 40s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } 
+}
+.woodengear{position: absolute;float:right; left:-60px;  -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 25s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(-360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(-360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(-360deg); transform:rotate(360deg); } }
+
+.woodengear2{position: absolute;float:right; right:-120px;top:225px;  -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 25s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(-360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(-360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(-360deg); transform:rotate(360deg); } }
+
+h1{z-index: 1;
+position: absolute;
+font-size: 8em;
+text-align: center;
+left: 0;
+right: 0;
+font-family: 'Itim', cursive;
+margin-top: 100px;
+color: white}
+
+
+/*---------------------CONTACT--------------------------*/	
+	.sectionFour {
+	height: 100vh;	
+	background-color: rgba( 246, 250, 198,1);
+        width: 100%;
+}
+
+.callme{position: absolute;
+z-index: 1;
+    top: 100px;
+left:-100px;
+  -webkit-transition: linear .5s; /* For Safari 3.1 to 6.0 */
+    transition: linear .5s;}
+.callme:hover{left: 0px;}
+
+.emailme{position: absolute;
+z-index: 2;
+    top: 100px;
+right:-450px;
+      -webkit-transition: linear .5s; /* For Safari 3.1 to 6.0 */
+    transition: linear .5s;
+}
+.emailme:hover{right:-250px;}
+
+.footer {
+	height: 25vh;	
+	background-color: lightgray;
+}
+	
+.info{z-index: 3;
+position: absolute;
+font-size: 3em;
+text-align: center;
+    margin: auto;
+left: 0;
+right: 0;
+font-family: 'Nunito', sans-serif;
+margin-top: 120px;
+color: black;
+width: 60%;
+background-color: rgba(250,250,250,0.5);
+    border: 5px;
+    border-style: solid;
+    border-color: white;
+padding: 2em}
+.phonenumber{color: rgba(246,198,250,1);
+}
+a.phonenumber{text-decoration: underline;
+transition: background-color 0.5s ease;}
+a.email{text-decoration: underline;
+transition: background-color 0.5s ease;}
+a.phonenumber:hover {color: aqua}
+a.email:hover {color: aqua}
+.email{color: rgba(246,198,250,1);}
+
+.social li {list-style: none;
+    display: inline-block;
+    padding: .5em;
+        
+}
+.social li:hover{opacity: 0.5;}
+
+@media screen and (max-width: 1007px) {
+    .sectionTwo .info{display: none;}
+}
+	

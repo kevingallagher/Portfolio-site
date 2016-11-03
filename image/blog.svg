@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>blog</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M87.0000019,89.2289418 C87.0000022,78.7377132 95.4986822,70.232892 106.002897,70.232892 L147.546634,70.232892 C150.165783,70.232892 160,77.5 160,77.5 L184.934498,33.2764774 C184.934498,33.2764774 189.55405,23.1134633 197.869243,26.809105 C206.184437,30.5047467 201.564885,38.81994 201.564885,38.81994 C201.564885,38.81994 172.789071,87.6598724 173.847574,88.7110999 C179.304458,94.1304779 182.591574,99.1713889 182.591574,101.338718 L182.591572,184.435446 C182.591572,194.928203 174.087458,203.434263 163.591462,203.434263 L106.000109,203.434263 C95.5066383,203.434263 86.9999998,194.924733 87,184.438213 L87.0000019,89.2289418 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="115.844539" height="177.434263" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M187.159305,30.5970526 C189.539451,26.4745192 194.819163,25.0667977 198.933137,27.4420017 L198.933137,27.4420017 C203.055499,29.8220485 204.468366,35.0925279 202.087699,39.2159648 L148.807509,131.499961 C146.427363,135.622495 141.051883,140.694175 136.794313,142.831252 L138.188119,142.131634 C133.93356,144.2672 130.259533,142.14925 129.981511,137.393547 L130.072527,138.950427 C129.794702,134.198088 131.498447,127.004486 133.879115,122.881049 L187.159305,30.5970526 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="73.5306143" height="119.998418" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="blog" stroke="#383333">
+            <path d="M149.5,73 L149.5,100.717311" id="Path-17" stroke-width="5"></path>
+            <path d="M182.717311,104 L161.858655,104" id="Path-17-Copy" stroke-width="5"></path>
+            <use id="Rectangle-110-Copy" mask="url(#mask-2)" stroke-width="10" xlink:href="#path-1"></use>
+            <use id="Rectangle-103-Copy-5" mask="url(#mask-4)" stroke-width="10" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

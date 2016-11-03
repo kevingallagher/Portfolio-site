@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="421px" height="281px" viewBox="0 0 421 281" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>eyebrows</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M78.1123309,232.634156 C77.4067042,230.525737 80.0983762,228.513326 84.1378168,228.138059 L171.0803,220.061034 C175.11371,219.686327 178.949591,221.074245 179.661086,223.200196 L180.94274,227.029789 C181.648366,229.138208 178.956694,231.150618 174.917254,231.525886 L87.9747708,239.602911 C83.9413602,239.977618 80.105479,238.589699 79.3939847,236.463748 L78.1123309,232.634156" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="103.05507" height="19.6639447" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M240.395306,223.199782 C241.100932,221.091363 244.936651,219.685352 248.976092,220.060619 L335.918575,228.137645 C339.951985,228.512352 342.655555,230.50779 341.94406,232.633741 L340.662407,236.463334 C339.95678,238.571752 336.121061,239.977763 332.081621,239.602496 L245.139138,231.525471 C241.105727,231.150764 238.402157,229.155326 239.113652,227.029374 L240.395306,223.199782" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="103.057712" height="19.6631157" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eyebrows" stroke="#363232" stroke-width="20" fill="#363232">
+            <use id="Rectangle-2-Copy-6" mask="url(#mask-2)" xlink:href="#path-1"></use>
+            <use id="Rectangle-2-Copy-7" mask="url(#mask-4)" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

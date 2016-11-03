@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="421px" height="375px" viewBox="0 0 421 375" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polyline id="path-1" points="94 387.237653 94 228 329.221973 228 329.221973 387.237653"></polyline>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="235.221973" height="159.237653" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="70" y="213" width="279.309152" height="85.4445941" rx="8"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="279.309152" height="85.4445941" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <path d="M210.105137,301.42366 C265.541673,301.42366 321.392378,261.429955 321.392378,212.095221 C321.392378,162.760486 280.70909,125 211.196189,125 C141.683288,125 101,162.760486 101,212.095221 C101,261.429955 154.668602,301.42366 210.105137,301.42366 Z" id="Oval-Copy" stroke="#363232" stroke-width="10" fill="#D8D8D8"></path>
+            <use id="Rectangle-Copy" stroke="#000000" mask="url(#mask-2)" stroke-width="20" fill="#E6D9CA" xlink:href="#path-1"></use>
+            <path d="M139,348.158402 C139,348.158402 149.910514,335 160.821027,335 C171.731541,335 182.642055,348.158402 182.642055,348.158402" id="Path-2-Copy-2" stroke="#363232" stroke-width="10" stroke-linecap="round"></path>
+            <path d="M235,348.158402 C235,348.158402 245.910514,335 256.821027,335 C267.731541,335 278.642055,348.158402 278.642055,348.158402" id="Path-2-Copy-3" stroke="#363232" stroke-width="10" stroke-linecap="round"></path>
+            <use id="Rectangle-4-Copy" stroke="#000000" mask="url(#mask-4)" stroke-width="20" fill="#A4ACFC" xlink:href="#path-3"></use>
+            <polyline id="Triangle-2-Copy" stroke="#363232" stroke-width="10" stroke-linecap="round" fill="#8C7E72" points="107 291.405874 277.204014 230 314.299761 291.405874"></polyline>
+        </g>
+    </g>
+</svg>
