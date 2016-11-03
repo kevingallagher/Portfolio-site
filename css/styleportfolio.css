@@ -121,14 +121,14 @@ height: auto;
 background-color: ;
 }
 h1{padding:.2em;
-    width: 110%;
+    width: 81.5%;
     margin-top:40px;
-    margin-left: -100px;
+    margin-left: 73px;
 font-size: 8em;
 text-align: center;
 font-family: 'Paytone One', sans-serif;
-color: white;
-background-color: rgba(250,250,250,0.4)}
+color: rgba( 209, 138, 138,1);
+background-color: rgba(250,250,250,0.8)}
 
 .content{display:flex;
 flex-wrap: wrap;

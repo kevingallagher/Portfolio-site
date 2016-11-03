@@ -29,7 +29,7 @@ list-style-type: none;
 a{text-decoration: none;
 color: black}
 .nav_item1:hover {background-color: rgba( 246, 198, 250, 100)}
-.nav_item2: {background-color: rgba( 196, 252, 196, 1)}
+.nav_item2:hover {background-color: rgba( 196, 252, 196, 1)}
 .nav_item3:hover {background-color: rgba( 239, 185, 185, 1)}
 .nav_item4:hover {background-color: rgba( 179, 185, 247, 1)}
 .nav_item5:hover {background-color: rgba( 246, 250, 198, 1)}
@@ -153,10 +153,10 @@ left:0;
 right:0;
 display: block;
 margin: auto;
-background-color: rgba(255,255,255,0.4);
+background-color: rgba(255,255,255,0.7);
 margin-top: 240px;
 width: 100%;
-    border: 8px;
+    border: 10px;
     border-color: white;
     border-style: solid;
 /*outline: 10px dashed white;

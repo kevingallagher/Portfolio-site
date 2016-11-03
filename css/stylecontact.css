@@ -112,7 +112,7 @@ top:-50px;   -webkit-animation:spin 4s linear infinite;
 
 h1{font-family: 'Paytone One', sans-serif;
 font-size: 5em;
-    z-index: 1;
+    z-index: 5;
 position: absolute;
 text-align: center;
 left: 0;
@@ -120,7 +120,7 @@ right: 0;
     margin: auto;
 margin-top: 100px;
 color: white;
-background-color:rgba(223,220,149,.7);
+background-color:rgba(223,220,149,.8);
     width:800px ;
     padding: 0.2em;
 }
