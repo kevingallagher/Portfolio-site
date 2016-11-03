@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="421px" height="375px" viewBox="0 0 421 375" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M131.066559,318.634156 C130.648455,316.525737 132.24335,314.513326 134.636838,314.138059 L186.152837,306.061034 C188.542752,305.686327 190.815626,307.074245 191.237207,309.200196 L191.996625,313.029789 C192.41473,315.138208 190.819834,317.150618 188.426346,317.525886 L136.910347,325.602911 C134.520432,325.977618 132.247559,324.589699 131.825977,322.463748 L131.066559,318.634156" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="61.0631844" height="19.6639447" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M227.82676,309.199782 C228.244865,307.091363 230.517642,305.685352 232.91113,306.060619 L284.427129,314.137645 C286.817044,314.512352 288.418989,316.50779 287.997408,318.633741 L287.23799,322.463334 C286.819885,324.571752 284.547108,325.977763 282.15362,325.602496 L230.637621,317.525471 C228.247706,317.150764 226.645761,315.155326 227.067342,313.029374 L227.82676,309.199782" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="61.0647498" height="19.6631157" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-2" stroke="#363232" stroke-width="20" fill="#363232">
+            <use id="Rectangle-2-Copy-2" mask="url(#mask-2)" xlink:href="#path-1"></use>
+            <use id="Rectangle-2-Copy-3" mask="url(#mask-4)" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>
