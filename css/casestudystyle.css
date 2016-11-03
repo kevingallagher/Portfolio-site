@@ -1,0 +1,80 @@
+*{
+padding:0;
+margin: 0;
+font-family:100%;
+line-height:1em;
+}
+
+body{background-color: rgba(239, 185, 185, 1);
+margin-top:}
+/*---------------------NAV--------------------------*/	
+nav { position: fixed; text-align: center;
+    left: 0;
+right: 0;
+    top: 0;
+margin: auto;
+z-index: 4;
+background-color: white;
+opacity:0.7 }
+nav ul li { display: inline; 
+font-family:'Indie Flower', cursive;
+list-style-type: none;
+    font:rgba(246, 198, 250, 100);
+    font-size: 1.5em;
+    list-style: none;
+}
+.nav_item1:hover {background-color: rgba( 246, 198, 250, 100)}
+.nav_item2:hover {background-color: rgba( 196, 252, 196, 1)}
+.nav_item3:hover {background-color: rgba( 239, 185, 185, 1)}
+.nav_item4:hover {background-color: rgba( 179, 185, 247, 1)}
+.nav_item5:hover {background-color: rgba( 246, 250, 198, 1)}
+
+li a{text-decoration: none;
+color: black;}
+.nav_item {
+	padding: 20px 50px;
+	display: inline-block;
+}
+
+.section{margin-top: 50px}
+h1{font-size: 5em;
+    z-index: 3;
+position: absolute;margin-top: 2em;
+z-index: 0;
+    left: 1em;
+font-family: 'Itim', cursive;
+color: white;
+}
+.content{margin: auto;
+left: 0;
+right: 0;
+    margin-top: -5px;
+background-color: rgba( 240, 210, 210,1);
+width: 80%}
+.banner{width:100%;
+position: relative;
+top: 4em;
+z-index:-1;}
+p{padding: 2em;
+font-size: 2em;
+width: auto;
+text-align:inherit;}
+.process{width: 33%;
+margin: auto;
+}
+.bottombanner{width:100%;
+margin-top: -50px}
+
+.social{  left: 0;
+        right:0;
+    margin: auto;
+        width:540px;
+        }
+.social li {list-style: none;
+    display: inline-block;
+    padding:2em 3em;
+   width: ;
+        
+}
+.social li:hover{opacity: 0.5;}
+
