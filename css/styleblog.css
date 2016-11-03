@@ -44,36 +44,35 @@ body{overflow-x: hidden;
 margin-top: -20px;
 z-index: 3;}
 /
-/*---------------------CONTACT--------------------------*/	
+/*---------------------Blog--------------------------*/	
 	.sectionFour {
 	height: 100vh;	
 	background-color: rgba( 179, 185, 247,1);
-        width: 100%;
-}
+        width: 100%;}
+
+ .sidebar{width:15%;
+position: fixed;
+height: 100vh;
+background-color: rgba(193,199,246,1);
+top:0;}   
+.sidebar li{padding: 2em 2em;
+    font-family:'Indie Flower', cursive;
+    color: white;
+ }
+.sidebar ul{margin-top:  63px}
+.sidebar li:hover{opacity: 0.4;}
+.sidebar ul li a:hover{background-color: aqua}
+
 h1{font-family: 'Itim', cursive; 
 font-size: 8em;
 margin-top:100px;
     text-align: center;
+    color: white;
     
 }
 
 p{font-family: 'Nunito', sans-serif;}
-.callme{position: absolute;
-z-index: 1;
-    top: 100px;
-left:-100px;
-  -webkit-transition: linear .5s; /* For Safari 3.1 to 6.0 */
-    transition: linear .5s;}
-.callme:hover{left: 100px;}
 
-.emailme{position: absolute;
-z-index: 2;
-    top: 100px;
-right:-450px;
-      -webkit-transition: linear .5s; /* For Safari 3.1 to 6.0 */
-    transition: linear .5s;
-}
-.emailme:hover{right:-250px;}
 
 .footer {
 	background-color: lightgray;
@@ -85,7 +84,7 @@ right:-450px;
 .blog{position: relative;
     background-color: rgba(250,250,250,0.2);
     top:2em;
-    max-width:  1000px;
+    max-width:  895px;
     text-align: center;
 left: 0;
 right:0;
