@@ -26,9 +26,13 @@ list-style-type: none;
     
 }
 
+
 a{text-decoration: none;
-color: black}
-.nav_item1:hover {background-color: rgba( 246, 198, 250, 100)}
+    color: black;}
+
+.nav_item1{background-color: rgba( 246, 198, 250, 1);
+text-decoration: underline;
+}
 .nav_item2:hover {background-color: rgba( 196, 252, 196, 1)}
 .nav_item3:hover {background-color: rgba( 239, 185, 185, 1)}
 .nav_item4:hover {background-color: rgba( 179, 185, 247, 1)}

@@ -26,13 +26,18 @@ list-style-type: none;
 	display: inline-block;
     
 }
+
+.nav_item5{background-color:  rgba( 246, 250, 198, 1);
+text-decoration: underline;
+}
+
 a{text-decoration: none;
 color: black}
 .nav_item1:hover {background-color: rgba( 246, 198, 250, 100)}
 .nav_item2:hover {background-color: rgba( 196, 252, 196, 1)}
 .nav_item3:hover {background-color: rgba( 239, 185, 185, 1)}
 .nav_item4:hover {background-color: rgba( 179, 185, 247, 1)}
-.nav_item5:hover {background-color: rgba( 246, 250, 198, 1)}
+
 /*-----------------------------------------------*/	
 section { padding: 20px; 
 }
@@ -178,8 +183,8 @@ transition: background-color 0.5s ease;}
 a.email{text-decoration: underline;
 transition: background-color 0.5s ease;}
 a.phonenumber:hover {color: aqua}
-a.email:hover {color: aqua}
-.email{color: rgba(246,198,250,1);}
+a.email:hover {color: rgba(246,198,250,1)}
+.email{color: rgba(196,232,245,1);}
 
 .social li {list-style: none;
     display: inline-block;

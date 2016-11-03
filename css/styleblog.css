@@ -9,6 +9,7 @@ line-height:1em;
 nav { position: fixed; text-align: center;
     left: 0;
 right: 0;
+    top: 0;
 margin: auto;
 z-index:2 ;
 background-color: white;}
@@ -23,15 +24,19 @@ list-style-type: none;
 .nav_item {
 	padding: 20px 50px;
 	display: inline-block;
-    
 }
+
+.nav_item4{background-color: rgba( 179, 185, 247, 1);
+text-decoration: underline;
+}
+
 
 a{text-decoration: none;
 color: black}
 .nav_item1:hover {background-color: rgba( 246, 198, 250, 100)}
 .nav_item2: {background-color: rgba( 196, 252, 196, 1)}
 .nav_item3:hover {background-color: rgba( 239, 185, 185, 1)}
-.nav_item4:hover {background-color: rgba( 179, 185, 247, 1)}
+
 .nav_item5:hover {background-color: rgba( 246, 250, 198, 1)}
 /*-----------------------------------------------*/	
 
@@ -49,7 +54,7 @@ z-index: 3;}
 	background-color: rgba( 179, 185, 247,1);
         width: 100%;}
 
- .sidebar{width:15%;
+ .sidebar{width:10vw;
 position: fixed;
 height: 100vh;
 background-color: rgba(193,199,246,1);
@@ -83,15 +88,19 @@ p{font-family: 'Nunito', sans-serif;}
 .blog{position: relative;
     background-color: rgba(250,250,250,0.2);
     top:2em;
-    max-width:  895px;
+    max-width:  1000px;
+    width: 80vw;
     text-align: left;
 left: 0;
 right:0;
 margin: auto;
+    margin-left: 190px;
 height: 100vh;}
 
-.blog p{padding-left: 1em;
-padding-right:1em }
+.blog p{padding-left: 3em;
+padding-right:3em ;
+padding-top:3em;
+font-size: 1.5em;}
 .social{  left: 0;
         right:0;
     margin: auto;
