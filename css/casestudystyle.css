@@ -52,11 +52,12 @@ z-index: 0;
 font-family: 'Paytone One', sans-serif;
 color: white;
 }
-.content{margin: auto;
+.content{position: relative;
+    margin: auto;
 left: 0;
 right: 0;
     margin-top: 125px;
-background-color: rgba( 240, 210, 210,1);
+background-color: rgba( 255,255,255,1);
 width: 80%}
 .banner{width:100%;
 position: relative;
@@ -68,8 +69,14 @@ width: auto;
 text-align:inherit;
 font-family: 'Nunito', sans-serif;
 line-height: 1.5em;}
-.process{width: 33%;
-margin: auto;
+.flex-container{display: flex;
+flex-wrap: wrap;}
+.flex-item{flex-grow: 1;
+width: 300px;
+    max-height: 300px;
+margin: 5px  ;}
+
+    
 }
 .bottombanner{width:100%;
     position: relative;
