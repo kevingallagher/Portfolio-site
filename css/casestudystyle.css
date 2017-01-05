@@ -43,10 +43,11 @@ color: black;}
 	display: inline-block;
 }
 
-.section{margin-top: 50px}
+.section{margin-top:50px}
 h1{font-size: 5em;
     z-index: 3;
-position: absolute;margin-top: 2em;
+position: absolute;margin-top: 2.5em;
+    margin-left:-60px;
 z-index: 0;
     left: 1em;
 font-family: 'Paytone One', sans-serif;
@@ -65,7 +66,8 @@ top: 4em;
 z-index:-1;}
 p{padding: 2em;
 font-size: 1.5em;
-width: auto;
+width: 60%;
+    margin: auto;
 text-align:inherit;
 font-family: 'Nunito', sans-serif;
 line-height: 1.5em;}
@@ -77,11 +79,8 @@ width: 300px;
 margin: 5px  ;}
 
     
-}
-.bottombanner{width:100%;
-    position: relative;
-margin-bottom: 50px;
-margin-top: -231px}
+.bottombanner{width: 100%;
+position: relative;}
 
 .social{  left: 0;
         right:0;
@@ -95,7 +94,9 @@ margin-top: -231px}
         
 }
 .social li:hover{opacity: 0.5;}
-.footer {
+.footer {position: absolute;
+    bottom: 100;
+    width: 100%;
 	height: auto;	
 	background-color: lightgray;
 }

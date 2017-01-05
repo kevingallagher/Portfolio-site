@@ -178,13 +178,15 @@ background-color: rgba(250,250,250,0.6);
 padding: 1em}
 .phonenumber{color: rgba(246,198,250,1);
 }
+.email{color: rgba(246,198,250,1)}
+
 a.phonenumber{text-decoration: underline;
 transition: background-color 0.5s ease;}
 a.email{text-decoration: underline;
 transition: background-color 0.5s ease;}
 a.phonenumber:hover {color: aqua}
-a.email:hover {color: rgba(246,198,250,1)}
-.email{color: rgba(196,232,245,1);}
+a.email:hover {color: aqua}
+
 
 .social li {list-style: none;
     display: inline-block;
