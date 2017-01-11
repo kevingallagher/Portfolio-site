@@ -53,6 +53,9 @@ z-index: 0;
 font-family: 'Paytone One', sans-serif;
 color: white;
 }
+h2{text-align: center;
+font-size:3em;
+    font-family'Paytone One', sans-serif;}
 .content{position: relative;
     margin: auto;
 left: 0;
@@ -78,7 +81,9 @@ width: 300px;
     max-height: 300px;
 margin: 5px  ;}
 
-    
+video{display: block;
+margin: auto;
+margin-top: 10em;}
 .bottombanner{width: 100%;
 position: relative;}
 
